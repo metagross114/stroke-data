@@ -1,0 +1,31 @@
+DoctorID,FirstName,LastName,Specialty,HospitalID
+1,Stephanie,Lopez,GP,7
+2,Albert,Bowman,Cardiologist,10
+3,Michelle,Cooper,Stroke Specialist,9
+4,Andrea,Avery,Cardiologist,8
+5,Jennifer,Bradshaw,Stroke Specialist,2
+6,James,Glover,Cardiologist,7
+7,Mike,Ramirez,Stroke Specialist,3
+8,Michael,Deleon,Stroke Specialist,9
+9,Krystal,Middleton,Cardiologist,6
+10,Sean,Hanson,GP,9
+11,Sherry,Martinez,GP,1
+12,Michael,Leblanc,Stroke Specialist,5
+13,John,Miller,Cardiologist,9
+14,Jerry,Mcmillan,Stroke Specialist,6
+15,Justin,Hoffman,GP,4
+16,Veronica,Young,GP,8
+17,Daniel,Davis,Stroke Specialist,9
+18,Xavier,Alexander,Cardiologist,8
+19,Alicia,Fox,GP,1
+20,Timothy,Cox,Cardiologist,6
+21,Daniel,Lawrence,Stroke Specialist,8
+22,Sabrina,Mcpherson,Stroke Specialist,3
+23,Joshua,Hill,Stroke Specialist,9
+24,Diane,Wagner,Stroke Specialist,7
+25,David,Carpenter,GP,7
+26,Chad,Harrell,Cardiologist,5
+27,Luke,Wiley,GP,2
+28,Alexander,Wong,Cardiologist,4
+29,Victor,Jennings,Stroke Specialist,6
+30,Ronald,Simon,Cardiologist,2
